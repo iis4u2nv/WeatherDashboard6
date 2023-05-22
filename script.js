@@ -46,13 +46,13 @@ function initPage() {
                     
                     // When UV Index is good, shows green, when ok shows yellow, when bad shows red
                     if (response.data.value < 4 ) {
-                        UVIndex.setAttribute("class", "badge badge-success");
+                        UVIndex.setAttribute("class", "badge badge-secondary bg-success");
                     }
                     else if (response.data.value < 8) {
-                        UVIndex.setAttribute("class", "badge badge-warning");
+                        UVIndex.setAttribute("class", "badge badge-secondary bg-warning");
                     }
                     else {
-                        UVIndex.setAttribute("class", "badge badge-danger");
+                        UVIndex.setAttribute("class", "badge badge-secondary bg-danger");
                     }
                     console.log(response.data.value)
                     UVIndex.innerHTML = response.data.value;
