@@ -35,8 +35,8 @@ This weather daskboard app is mobile compatible.
 
 ## Links
 
-[GitHub Repository]: https://github.com/iis4u2nv/WeatherDashboard6
-[GitHub Live Link]: https://iis4u2nv.github.io/WeatherDashboard6/
+GitHub Repository: https://github.com/iis4u2nv/WeatherDashboard6
+GitHub Live Link: https://iis4u2nv.github.io/WeatherDashboard6/
 
 
 ## Simulation
