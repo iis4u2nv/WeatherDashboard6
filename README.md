@@ -1,4 +1,4 @@
-# 06 Server-Side APIs: Weather Dashboard
+# WeatherDashboard6
 
 # User Story
 
@@ -33,7 +33,7 @@ Search history will be saved in local storage.
 This weather daskboard app is mobile compatible.
 ```
 
-## URL
+## Links:
 
 GitHub Repository: https://github.com/iis4u2nv/WeatherDashboard6
 GitHub Live Link: https://iis4u2nv.github.io/WeatherDashboard6/
