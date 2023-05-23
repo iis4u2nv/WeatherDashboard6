@@ -110,6 +110,7 @@ searchEl.addEventListener("click", function () {
 clearEl.addEventListener("click", function () {
     localStorage.clear();
     searchHistory = [];
+    document.getElementById("enter-city").value=""
     renderSearchHistory();
 })
 
@@ -140,4 +141,3 @@ if (searchHistory.length > 0) {
 }
 
 initPage();
-// fetchButton.addEventListener('click', getApi);
