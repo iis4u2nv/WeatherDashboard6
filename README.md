@@ -32,15 +32,17 @@ With a 5-day forecast that displays the date, an icon representation of weather 
 Search history will be saved in local storage.
 This weather daskboard app is mobile compatible.
 ```
+
 ## Links
-GitHub Repository: https://github.com/iis4u2nv/WeatherDashboard6
-GitHub Live Link: https://iis4u2nv.github.io/WeatherDashboard6/
+
+![GitHub Repository] https://github.com/iis4u2nv/WeatherDashboard6
+![GitHub Live Link] https://iis4u2nv.github.io/WeatherDashboard6/
 
 ## Simulation
 
 The following image shows the web application's appearance and functionality:
 
-![The weather app includes a search option, a list of cities, and a five-day forecast and current weather conditions for Lima.](./assets/Screenshot%20(20).png)
+![The weather app includes a search option, and a five-day forecast and current weather conditions for a city of your choice.](./assets/Screenshot%20(20).png)
 
 
 
