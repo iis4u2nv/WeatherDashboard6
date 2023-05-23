@@ -39,9 +39,9 @@ This weather daskboard app is mobile compatible.
 
 The following image shows the web application's appearance and functionality:
 
-![The weather app includes a search option, a list of cities, and a five-day forecast and current weather conditions for Lima.](./assets/Screenshot(20).png)
+![The weather app includes a search option, a list of cities, and a five-day forecast and current weather conditions for Lima.](./assets/Screenshot%20(20).png)
 
 
 
-- - -
+
 Amazing Grace © 2023 All Rights Reserved.
